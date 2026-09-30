@@ -1,0 +1,10 @@
+:root {
+    --accent: #3B82F6;        /* buttons, highlights (vibrant blue). Try #8B5CF6 (purple) or #10B981 (emerald) */
+    --ink: #F3F4F6;           /* main text (off-white) */
+    --muted: #9CA3AF;         /* secondary text (cool gray) */
+    --paper: #1F2937;         /* the card (dark slate gray) */
+    --background: #111827;    /* the page behind the card (deep obsidian/midnight) */
+    --line: #374151;          /* borders and rules (muted charcoal border) */
+    --radius: 20px;           /* corner rounding, everywhere */
+    --font: "Segoe UI", system-ui, -apple-system, Helvetica, Arial, sans-serif; 
+}
